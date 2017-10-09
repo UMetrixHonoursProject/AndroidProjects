@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4b9819579af206cdaef67c4ed16c7f921f77dcb7.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_3f07b65f8031382570b414df0c4e161a2d12f612.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_11ba4c30907f02dae5671422a35384900c8e402e.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_aa5cba6431ce2ff9de1a63c12d6eaf8fabf02b4a.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_9f037ae4cc5976a23bb891ee6c29d543ef535fc2.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_21c93e2acd7fc5fffb5acd458d1c97005d7d0bc5.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_31d6a9553f183897a8ffa22580631f7279c950c6.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_8daa9eb74902eabd78da4a86c1831e3d15534397.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_fe3a505439b2e070dc820dca0f1cc46db02d80e3.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_fdb0dc39c099b36abd40013460e221d2119b2f20.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_a4e12dbe2ea6d6fa5ce4fe146eee2b5d8811007b.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_353de1955889fc43ee332f4f788df8774688d2ae.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_8a50ef5f021b3dc2ff5713602f3cc9c58ce4e3ce.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_b06cdd9003bfb35795bfa8234236119c7a0e10ec.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_05bdab54e46576d5ac5c27da78c0679f6bd8c36c.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_091e903defd1d6732fcb1be8e88ce282a76ab599.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_5c40fe58dce24c6fce119e1d062217edc8131051.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/ramya/Desktop/Android/Breadcrumbs/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_93fe37f104edc8a724c24fa149ebeebb9dcc5a4b.jar" />
+    </item>
+
+</items>
